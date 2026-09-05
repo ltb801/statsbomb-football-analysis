@@ -1,0 +1,7 @@
+.DS_Store
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+
+# StatsBomb open data is large and should be downloaded separately.
+open-data/
